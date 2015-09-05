@@ -1,0 +1,11 @@
+{
+  "name": "hubot-publicpage",
+  "version": "1.0.0",
+  "description": "use it when incorporate hubot into public pages.",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
